@@ -85,52 +85,6 @@ Personal portfolio showcasing my work and development journey.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anapintoo19&show_icons=true&hide_border=true&bg_color=071A35&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapintoo19&layout=compact&hide_border=true&bg_color=071A35&title_color=60A5FA&text_color=CBD5E1" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=anapintoo19&theme=transparent&hide_border=true&background=071A35&stroke=1E4976&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anapintoo19&bg_color=071A35&color=CBD5E1&line=3B82F6&point=60A5FA&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=anapintoo19&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/anapintoo19/anapintoo19/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
